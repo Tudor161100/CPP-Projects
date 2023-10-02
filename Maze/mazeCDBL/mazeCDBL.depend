@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1695215034 source:d:\cpp_projects\maze\mazecdbl\main.cpp
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<list>
+	<stack>
+	<vector>
+	<algorithm>
+	<time.h>
+	<set>
+	<cstdlib>
+	<stdlib.h>
+	"Maze.h"
+
+1695214552 d:\cpp_projects\maze\mazecdbl\maze.h
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<list>
+	<stack>
+	<vector>
+	<algorithm>
+	<time.h>
+	<set>
+	<cstdlib>
+	<stdlib.h>
+	"Graph.h"
+
+1695214618 d:\cpp_projects\maze\mazecdbl\graph.h
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<list>
+	<stack>
+	<vector>
+	<algorithm>
+	<time.h>
+	<set>
+	<cstdlib>
+	<stdlib.h>
+
+1695214650 source:d:\cpp_projects\maze\mazecdbl\graph.cpp
+	"Graph.h"
+
+1695214586 source:d:\cpp_projects\maze\mazecdbl\maze.cpp
+	"Maze.h"
+
+1695215034 source:d:\cpp_projects\maze\mazecdbl\maze_main.cpp
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<list>
+	<stack>
+	<vector>
+	<algorithm>
+	<time.h>
+	<set>
+	<cstdlib>
+	<stdlib.h>
+	"Maze.h"
+
